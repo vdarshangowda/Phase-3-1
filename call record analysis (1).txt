@@ -1,0 +1,6 @@
+Call Record Analysis
+
+1. Created a Database mongodbsample
+2. Insert one record Using the insert command
+3. Displayed a the record with roaming true with its count
+4. Displayed the record with call charges greater than 10. 
